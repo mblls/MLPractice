@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d188f0f4-2de3-4e08-b3a8-be35d5b30110" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1XxvwZYVLHEk3umi7KsDQEn9xNP" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="KEnv" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$PROJECT_DIR$/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="true" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d188f0f4-2de3-4e08-b3a8-be35d5b30110" name="Default Changelist" comment="" />
+      <created>1582000798337</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582000798337</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="184" y="101" width="1071" height="696" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583085792924">
+      <screen x="0" y="23" width="1440" height="835" />
+    </state>
+    <state x="184" y="101" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.833@0.23.1440.833" timestamp="1582001249758" />
+    <state x="184" y="101" width="1071" height="696" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.834@0.23.1440.834" timestamp="1582151956691" />
+    <state x="184" y="101" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.835@0.23.1440.835" timestamp="1583085792924" />
+    <state x="398" y="250" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1583107472318">
+      <screen x="0" y="23" width="1440" height="835" />
+    </state>
+    <state x="398" y="250" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.835@0.23.1440.835" timestamp="1583107472318" />
+    <state width="1379" height="203" key="GridCell.Tab.0.bottom" timestamp="1583513415800">
+      <screen x="0" y="23" width="1440" height="836" />
+    </state>
+    <state width="1379" height="203" key="GridCell.Tab.0.bottom/0.23.1440.835@0.23.1440.835" timestamp="1583086090985" />
+    <state width="1379" height="203" key="GridCell.Tab.0.bottom/0.23.1440.836@0.23.1440.836" timestamp="1583513415800" />
+    <state width="1379" height="203" key="GridCell.Tab.0.center" timestamp="1583513415800">
+      <screen x="0" y="23" width="1440" height="836" />
+    </state>
+    <state width="1379" height="203" key="GridCell.Tab.0.center/0.23.1440.835@0.23.1440.835" timestamp="1583086090984" />
+    <state width="1379" height="203" key="GridCell.Tab.0.center/0.23.1440.836@0.23.1440.836" timestamp="1583513415800" />
+    <state width="1379" height="203" key="GridCell.Tab.0.left" timestamp="1583513415800">
+      <screen x="0" y="23" width="1440" height="836" />
+    </state>
+    <state width="1379" height="203" key="GridCell.Tab.0.left/0.23.1440.835@0.23.1440.835" timestamp="1583086090984" />
+    <state width="1379" height="203" key="GridCell.Tab.0.left/0.23.1440.836@0.23.1440.836" timestamp="1583513415800" />
+    <state width="1379" height="203" key="GridCell.Tab.0.right" timestamp="1583513415800">
+      <screen x="0" y="23" width="1440" height="836" />
+    </state>
+    <state width="1379" height="203" key="GridCell.Tab.0.right/0.23.1440.835@0.23.1440.835" timestamp="1583086090984" />
+    <state width="1379" height="203" key="GridCell.Tab.0.right/0.23.1440.836@0.23.1440.836" timestamp="1583513415800" />
+    <state x="221" y="79" key="SettingsEditor" timestamp="1582151821718">
+      <screen x="0" y="23" width="1440" height="834" />
+    </state>
+    <state x="221" y="79" key="SettingsEditor/0.23.1440.834@0.23.1440.834" timestamp="1582151821718" />
+    <state x="397" y="272" key="com.intellij.ide.util.TipDialog" timestamp="1582134763596">
+      <screen x="0" y="23" width="1440" height="834" />
+    </state>
+    <state x="397" y="272" key="com.intellij.ide.util.TipDialog/0.23.1440.833@0.23.1440.833" timestamp="1582000935284" />
+    <state x="397" y="272" key="com.intellij.ide.util.TipDialog/0.23.1440.834@0.23.1440.834" timestamp="1582134763596" />
+  </component>
+</project>

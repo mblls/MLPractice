@@ -1,5 +1,7 @@
 from keras.preprocessing.image import ImageDataGenerator, array_to_img, img_to_array, load_img
 
+# here we are altering our images so that we have more examples to 
+# train on
 datagen = ImageDataGenerator(
         rotation_range=40,
         width_shift_range=0.2,
